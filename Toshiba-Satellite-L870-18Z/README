@@ -1,0 +1,14 @@
+Info of Toshiba L870 18Z laptop hardware:
+
+## General:
+
+UEFI: Insyde Corp. v6.80, uefi spec v2.31, efi rev 4096.1
+CPU: i7-3630QM, socket (rPGA988B)
+SOUTHBRIDGE/ISA: HM76 Express Chpset LPC Controler
+SUPERIO: SMSC FDC37C932
+GPU: AMD Radeon 7670M, chipset (Turks), family (Northern Islans), radeon_r600
+RAM: 2x4GB (8GB), SDDR3, 1600MHz, 64bits
+WIFI: Qalcomm Atheros AR9485, IEEE 802.11bgn
+ETHN: RealTek Semiconductore Co, RTL8169
+DISK: Toshiba MQ01ABD075, ATA SCSI, 750GB, 5400RPM
+DVD: TSSTcorp, CDDVDW SN-208DN

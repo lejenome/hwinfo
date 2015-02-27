@@ -8,10 +8,10 @@ Summary
 
 -Computer-
 Processor		: 8x Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz
-Memory		: 8121MB (847MB used)
+Memory		: 8121MB (320MB used)
 Operating System		: Arch Linux
 User Name		: root (root)
-Date/Time		: Fri Feb 27 09:51:23 2015
+Date/Time		: Fri Feb 27 11:31:11 2015
 -Display-
 Resolution		: 0x0 pixels
 OpenGL Renderer		: Gallium 0.4 on AMD TURKS
@@ -48,8 +48,8 @@ User Name		: root (root)
 Home Directory		: /home/lejenome/
 Desktop Environment		: Unknown
 -Misc-
-Uptime		: 47 minutes
-Load Average		: 1.01, 0.82, 0.55
+Uptime		: 1 hour, 12 minutes
+Load Average		: 0.85, 0.51, 0.31
 
 Kernel Modules
 --------------
@@ -60,7 +60,8 @@ Boots
 -----
 
 -Boots-
-Fri Feb 27 09:03		: 33..19.0-1-ARCH|still
+Fri Feb 27 10:19		: 33..19.0-1-ARCH|still
+Fri Feb 27 09:03		: 33..19.0-1-ARCH|-
 Fri Feb 27 08:32		: 33..19.0-1-ARCH|-
 Fri Feb 27 08:31		: 33..19.0-1-ARCH|-
 Fri Feb 27 08:30		: 33..19.0-1-ARCH|-
@@ -126,12 +127,12 @@ Wed Feb 11 09:23		: 33..18.6-1-ARCH|-
 Wed Feb 11 09:21		: 33..18.6-1-ARCH|-
 Tue Feb 10 21:01		: 33..18.6-1-ARCH|-
 Tue Feb 10 13:42		: 33..18.6-1-ARCH|-
-Mon Feb 9 10:4		: 33..18.6-1-ARCH|-
-Mon Feb 9 09:5		: 33..18.6-1-ARCH|-
-Sun Feb 8 10:5		: 33..18.5-1-ARCH|-
-Tue Feb 3 11:0		: 33..18.5-1-ARCH|-
-Mon Feb 2 09:5		: 33..18.4-1-ARCH|-
-Sun Feb 1 09:5		: 33..18.4-1-ARCH|-
+Mon Feb 9 10:48		: 33..18.6-1-ARCH|-
+Mon Feb 9 09:56		: 33..18.6-1-ARCH|-
+Sun Feb 8 10:50		: 33..18.5-1-ARCH|-
+Tue Feb 3 11:01		: 33..18.5-1-ARCH|-
+Mon Feb 2 09:58		: 33..18.4-1-ARCH|-
+Sun Feb 1 09:57		: 33..18.4-1-ARCH|-
 Sat Jan 31 20:25		: 33..18.4-1-ARCH|-
 Fri Jan 30 20:36		: 33..18.4-1-ARCH|-
 Fri Jan 30 19:50		: 33..18.4-1-ARCH|-
@@ -174,26 +175,26 @@ Sat Jan 10 21:18		: 33..18.2-2-ARCH|-
 Sat Jan 10 16:00		: 33..18.2-2-ARCH|-
 Sat Jan 10 15:30		: 33..18.2-2-ARCH|-
 Sat Jan 10 10:57		: 33..18.2-2-ARCH|-
-Fri Jan 9 14:4		: 33..18.2-2-ARCH|-
-Fri Jan 9 10:5		: 33..18.1-1-ARCH|-
-Thu Jan 8 14:4		: 33..18.1-1-ARCH|-
-Thu Jan 8 08:5		: 33..18.1-1-ARCH|-
-Wed Jan 7 19:0		: 33..18.1-1-ARCH|-
-Wed Jan 7 18:0		: 33..18.1-1-ARCH|-
-Wed Jan 7 14:0		: 33..18.1-1-ARCH|-
-Tue Jan 6 11:3		: 33..18.1-1-ARCH|-
-Tue Jan 6 11:3		: 33..18.1-1-ARCH|-
-Mon Jan 5 21:4		: 33..18.1-1-ARCH|-
-Mon Jan 5 14:2		: 33..18.1-1-ARCH|-
-Mon Jan 5 11:0		: 33..18.1-1-ARCH|-
-Sun Jan 4 15:2		: 33..18.1-1-ARCH|-
-Sun Jan 4 11:5		: 33..18.1-1-ARCH|-
-Sat Jan 3 10:5		: 33..18.1-1-ARCH|-
-Fri Jan 2 20:2		: 33..18.1-1-ARCH|-
-Fri Jan 2 20:2		: 33..18.1-1-ARCH|-
-Fri Jan 2 11:5		: 33..18.1-1-ARCH|-
-Thu Jan 1 16:0		: 33..18.1-1-ARCH|-
-Thu Jan 1 11:0		: 33..18.1-1-ARCH|-
+Fri Jan 9 14:40		: 33..18.2-2-ARCH|-
+Fri Jan 9 10:52		: 33..18.1-1-ARCH|-
+Thu Jan 8 14:45		: 33..18.1-1-ARCH|-
+Thu Jan 8 08:58		: 33..18.1-1-ARCH|-
+Wed Jan 7 19:01		: 33..18.1-1-ARCH|-
+Wed Jan 7 18:08		: 33..18.1-1-ARCH|-
+Wed Jan 7 14:04		: 33..18.1-1-ARCH|-
+Tue Jan 6 11:37		: 33..18.1-1-ARCH|-
+Tue Jan 6 11:33		: 33..18.1-1-ARCH|-
+Mon Jan 5 21:44		: 33..18.1-1-ARCH|-
+Mon Jan 5 14:29		: 33..18.1-1-ARCH|-
+Mon Jan 5 11:02		: 33..18.1-1-ARCH|-
+Sun Jan 4 15:24		: 33..18.1-1-ARCH|-
+Sun Jan 4 11:50		: 33..18.1-1-ARCH|-
+Sat Jan 3 10:58		: 33..18.1-1-ARCH|-
+Fri Jan 2 20:26		: 33..18.1-1-ARCH|-
+Fri Jan 2 20:22		: 33..18.1-1-ARCH|-
+Fri Jan 2 11:56		: 33..18.1-1-ARCH|-
+Thu Jan 1 16:05		: 33..18.1-1-ARCH|-
+Thu Jan 1 11:09		: 33..18.1-1-ARCH|-
 Wed Dec 31 20:08		: 33..18.1-1-ARCH|-
 Wed Dec 31 17:03		: 33..18.1-1-ARCH|-
 Wed Dec 31 16:34		: 33..18.1-1-ARCH|-
@@ -271,13 +272,13 @@ tmpfs	/dev/shm	0.05 % (3.9 GiB of 3.9 GiB)
 tmpfs	/run	0.12 % (3.9 GiB of 3.9 GiB)	
 tmpfs	/sys/fs/cgroup	0.00 % (3.9 GiB of 3.9 GiB)	
 systemd-1	/boot/efi	6.96 % (677.9 MiB of 728.6 MiB)	
-systemd-1	/mnt/Others	74.49 % (108.6 GiB of 425.5 GiB)	
-none	/home/lejenome/.cache	0.22 % (3.9 GiB of 3.9 GiB)	
+systemd-1	/mnt/Others	74.52 % (108.4 GiB of 425.5 GiB)	
+none	/home/lejenome/.cache	0.00 % (3.9 GiB of 3.9 GiB)	
 none	/tmp	0.00 % (8.0 GiB of 8.0 GiB)	
 /dev/sda1	/boot/efi	6.96 % (677.9 MiB of 728.6 MiB)	
 /dev/sda7	/var/lib/docker/btrfs	40.18 % (67.0 GiB of 111.9 GiB)	
-/dev/sda4	/mnt/Others	74.49 % (108.6 GiB of 425.5 GiB)	
 tmpfs	/run/user/1000	0.00 % (793.1 MiB of 793.1 MiB)	
+/dev/sda4	/mnt/Others	74.52 % (108.4 GiB of 425.5 GiB)	
 
 Display
 -------
@@ -345,7 +346,7 @@ MAIL		: /var/mail/root
 LOGNAME		: root
 USER		: root
 USERNAME		: root
-SUDO_COMMAND		: /usr/bin/hardinfo -r
+SUDO_COMMAND		: /usr/bin/hardinfo -r --report-format=text -a
 SUDO_USER		: lejenome
 SUDO_UID		: 1000
 SUDO_GID		: 1000
@@ -388,62 +389,62 @@ Processor
 ---------
 
 -Processors-
-Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2400.00MHz
-Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 1846.31MHz
-Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2399.44MHz
-Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2397.28MHz
-Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2291.62MHz
-Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2281.78MHz
-Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2110.69MHz
-Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 1999.59MHz
+Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2338.97MHz
+Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2390.44MHz
+Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2361.56MHz
+Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2300.91MHz
+Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 1999.50MHz
+Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2360.44MHz
+Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 1900.03MHz
+Intel(R) Core(TM) i7-3630QM CPU @ 2.40GHz		: 2299.69MHz
 
 Memory
 ------
 
 -Memory-
 Total Memory		: 8121056 kB
-Free Memory		: 6629836 kB
-MemAvailable		: 7127936 kB
-Buffers		: 13480 kB
-Cached		: 643392 kB
+Free Memory		: 7250276 kB
+MemAvailable		: 7677328 kB
+Buffers		: 24400 kB
+Cached		: 550260 kB
 Cached Swap		: 0 kB
-Active		: 941044 kB
-Inactive		: 359820 kB
-Active(anon)		: 649928 kB
-Inactive(anon)		: 10172 kB
-Active(file)		: 291116 kB
-Inactive(file)		: 349648 kB
+Active		: 417884 kB
+Inactive		: 292048 kB
+Active(anon)		: 135988 kB
+Inactive(anon)		: 6328 kB
+Active(file)		: 281896 kB
+Inactive(file)		: 285720 kB
 Unevictable		: 0 kB
 Mlocked		: 0 kB
 Virtual Memory		: 8191996 kB
 Free Virtual Memory		: 8191996 kB
-Dirty		: 1956 kB
+Dirty		: 540 kB
 Writeback		: 0 kB
-AnonPages		: 643972 kB
-Mapped		: 161344 kB
-Shmem		: 16112 kB
-Slab		: 80532 kB
-SReclaimable		: 52528 kB
-SUnreclaim		: 28004 kB
-KernelStack		: 4912 kB
-PageTables		: 10776 kB
+AnonPages		: 135224 kB
+Mapped		: 84844 kB
+Shmem		: 7048 kB
+Slab		: 83720 kB
+SReclaimable		: 56724 kB
+SUnreclaim		: 26996 kB
+KernelStack		: 3488 kB
+PageTables		: 7424 kB
 NFS_Unstable		: 0 kB
 Bounce		: 0 kB
 WritebackTmp		: 0 kB
 CommitLimit		: 12252524 kB
-Committed_AS		: 1370576 kB
+Committed_AS		: 328832 kB
 VmallocTotal		: 34359738367 kB
-VmallocUsed		: 115184 kB
-VmallocChunk		: 34359613436 kB
+VmallocUsed		: 114872 kB
+VmallocChunk		: 34359605704 kB
 HardwareCorrupted		: 0 kB
-AnonHugePages		: 159744 kB
+AnonHugePages		: 28672 kB
 HugePages_Total		: 0
 HugePages_Free		: 0
 HugePages_Rsvd		: 0
 HugePages_Surp		: 0
 Hugepagesize		: 2048 kB
-DirectMap4k		: 243400 kB
-DirectMap2M		: 8095744 kB
+DirectMap4k		: 100040 kB
+DirectMap2M		: 8239104 kB
 
 PCI Devices
 -----------
@@ -681,8 +682,8 @@ Interfaces
 enp9s0	0.00MiB	0.00MiB		
 docker0	0.00MiB	0.00MiB	172.17.42.1	
 dummy0	0.00MiB	0.00MiB		
-wlp8s0	10.04MiB	0.79MiB	192.168.1.2	
-lo	10.19MiB	10.19MiB	127.0.0.1	
+wlp8s0	0.00MiB	0.00MiB		
+lo	0.11MiB	0.11MiB	127.0.0.1	
 
 IP Connections
 --------------
@@ -690,47 +691,26 @@ IP Connections
 -Connections-
 0.0.0.0:6667	LISTEN	0.0.0.0:*	tcp	
 127.0.0.1:53		0.0.0.0:*	udp	
-127.0.0.1:49753	ESTABLISHED	127.0.0.1:6667	tcp	
-192.168.1.2:54995	ESTABLISHED	64.233.167.125:5222	tcp	
-192.168.1.2:32967	LAST_ACK	216.146.43.70:80	tcp	
-192.168.1.2:56711	TIME_WAIT	98.137.204.103:80	tcp	
-127.0.0.1:6667	ESTABLISHED	127.0.0.1:49753	tcp	
-192.168.1.2:56580	TIME_WAIT	80.81.252.130:80	tcp	
-192.168.1.2:40789	ESTABLISHED	54.72.42.192:6697	tcp	
-192.168.1.2:44544	ESTABLISHED	162.213.39.42:6697	tcp	
-192.168.1.2:59865	ESTABLISHED	199.16.156.81:443	tcp	
-192.168.1.2:43286	ESTABLISHED	173.252.75.17:5222	tcp	
 :::6600	LISTEN	:::*	tcp6	
 :::3128	LISTEN	:::*	tcp6	
 :::3129	LISTEN	:::*	tcp6	
 :::3130	LISTEN	:::*	tcp6	
-::1:60473	ESTABLISHED	::1:3128	tcp6	
-::1:3128	ESTABLISHED	::1:60464	tcp6	
-::1:41454	ESTABLISHED	::1:6600	tcp6	
-::1:60464	ESTABLISHED	::1:3128	tcp6	
-::1:3128	ESTABLISHED	::1:60464	tcp6	
-::1:6600	ESTABLISHED	::1:41454	tcp6	
 0.0.0.0:5353		0.0.0.0:*	udp	
-0.0.0.0:58834		0.0.0.0:*	udp	
+0.0.0.0:40148		0.0.0.0:*	udp	
 127.0.0.1:53		0.0.0.0:*	udp	
-192.168.1.2:68		0.0.0.0:*	udp	
-0.0.0.0:37442		0.0.0.0:*	udp	
-:::48503		:::*	udp6	
+0.0.0.0:33065		0.0.0.0:*	udp	
+:::54059		:::*	udp6	
 
 Routing Table
 -------------
 
 -IP routing table-
-0.0.0.0 / 192.168.1.1	0.0.0.0	UG	wlp8s0	
 172.17.0.0 / 0.0.0.0	255.255.0.0	U	docker0	
-192.168.1.0 / 0.0.0.0	255.255.255.0	U	wlp8s0	
-192.168.1.1 / 0.0.0.0	255.255.255.255	UH	wlp8s0	
 
 ARP Table
 ---------
 
 -ARP Table-
-192.168.1.1	00:25:69:8b:a5:57	wlp8s0	
 
 DNS Servers
 -----------
@@ -743,55 +723,38 @@ Statistics
 ----------
 
 -IP-
-10423		: Total packets received
-2		: With invalid addresses
+1755		: Incoming packets delivered
 0		: Incoming packets discarded
 0		: Incoming packets discarded
-10383		: Incoming packets delivered
-8028		: Requests sent out
-24		: Reassemblies required
-8		: Packets reassembled ok
+1755		: Incoming packets delivered
+1757		: Requests sent out
+1900		: Dropped because of missing route
 -ICMP-
 0		: ICMP messages failed
 0		: ICMP messages failed
-34		: ICMP messages sent
 0		: ICMP messages failed
--ICMPMSG-
+0		: ICMP messages failed
 -TCP-
-238		: Active connections openings
-90		: Passive connection openings
-4		: Failed connection attempts
-71		: Connection resets received
-13		: Connections established
-28368		: Segments received
-25858		: Segments send out
-29		: Segments retransmited
-7		: Bad segments received.
-161		: Resets sent
+5		: Resets sent
+0		: Bad segments received.
+5		: Resets sent
+0		: Bad segments received.
+0		: Bad segments received.
+10		: Segments send out
+10		: Segments send out
+0		: Bad segments received.
+0		: Bad segments received.
+5		: Resets sent
 -UDP-
-823		: Packets received
-34		: Packets to unknown port received.
+1745		: Packets sent
 0		: Send buffer errors
-858		: Packets sent
+0		: Send buffer errors
+1745		: Packets sent
 0		: Send buffer errors
 0		: Send buffer errors
 -UDPLITE-
 -TCPEXT-
-80		: TCP sockets finished time wait in fast timer
-1112		: Delayed acks sent
-36		: Packets directly queued to recvmsg prequeue.
-3662		: Bytes directly received in process context from prequeue
-14654		: Packet headers predicted
-8		: Packets header predicted and directly queued to user
-1839		: Acknowledgments not containing data payload received
-5097		: Predicted acknowledgments
-7		: Congestion windows recovered without slow start after partial ack
-2		: Timeouts in loss state
-9		: Connections reset due to early user close
-1		: DSACKs received
-1		: DSACKs received
-77		: Connections reset due to unexpected data
-9		: Connections reset due to early user close
+0		: Packet headers predicted
 -IPEXT-
 
 Shared Directories
@@ -809,7 +772,7 @@ CPU Blowfish
 ------------
 
 -CPU Blowfish-
-<big><b>This Machine</b></big>	2400 MHz	2.418	
+<big><b>This Machine</b></big>	2339 MHz	2.420	
 Intel(R) Celeron(R) M processor         1.50GHz	(null)	26.1876862	
 PowerPC 740/750 (280.00MHz)	(null)	172.816713	
 
@@ -817,13 +780,13 @@ CPU CryptoHash
 --------------
 
 -CPU CryptoHash-
-<big><b>This Machine</b></big>	2400 MHz	636.640	
+<big><b>This Machine</b></big>	2339 MHz	636.724	
 
 CPU Fibonacci
 -------------
 
 -CPU Fibonacci-
-<big><b>This Machine</b></big>	2400 MHz	2.142	
+<big><b>This Machine</b></big>	2339 MHz	2.164	
 Intel(R) Celeron(R) M processor         1.50GHz	(null)	8.1375674	
 PowerPC 740/750 (280.00MHz)	(null)	58.07682	
 
@@ -831,18 +794,18 @@ CPU N-Queens
 ------------
 
 -CPU N-Queens-
-<big><b>This Machine</b></big>	2400 MHz	0.671	
+<big><b>This Machine</b></big>	2339 MHz	0.675	
 
 FPU FFT
 -------
 
 -FPU FFT-
-<big><b>This Machine</b></big>	2400 MHz	1.222	
+<big><b>This Machine</b></big>	2339 MHz	1.233	
 
 FPU Raytracing
 --------------
 
 -FPU Raytracing-
-<big><b>This Machine</b></big>	2400 MHz	3.720	
+<big><b>This Machine</b></big>	2339 MHz	3.774	
 Intel(R) Celeron(R) M processor         1.50GHz	(null)	40.8816714	
 PowerPC 740/750 (280.00MHz)	(null)	161.312647	
