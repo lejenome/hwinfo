@@ -1,0 +1,18 @@
+Used commands:
+
+$ acpidump > acpidump.txt
+$ dmidecode --dump > dmidecode-dump.txt
+$ dmidecode > dmidecode.txt
+$ ectool -Vi ectool.txt
+$ hardinfo -r > hardinfo.txt
+$ hwinfo > hwinfo.txt
+$ inteltool -a > inteltool.txt
+$ lspcu > lspcu.txt
+$ lshw > lshw.txt
+$ lspci -vvvxxx > lspci.txt
+$ lspci -tvnn > lspci-tvnn.txt
+$ msrtool -vkl > msrtool.txt
+$ superiotool -dV > superiotool.txt
+
+$ mkdir proc/ && for i in cpuinfo interrupts iomem ioports; do cat /proc/$i > proc/$i; done
+$ acpidump-all && mv out acpidump-all
