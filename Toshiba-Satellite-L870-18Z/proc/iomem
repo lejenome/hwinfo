@@ -1,0 +1,90 @@
+00000000-00000fff : reserved
+00001000-00087fff : System RAM
+00088000-000bffff : reserved
+  000a0000-000bffff : PCI Bus 0000:00
+000c0000-000c3fff : PCI Bus 0000:00
+000c4000-000c7fff : PCI Bus 0000:00
+000c8000-000cbfff : PCI Bus 0000:00
+000cc000-000cffff : PCI Bus 0000:00
+000d0000-000d3fff : PCI Bus 0000:00
+000d4000-000d7fff : PCI Bus 0000:00
+000d8000-000dbfff : PCI Bus 0000:00
+000dc000-000dffff : PCI Bus 0000:00
+000e0000-000e3fff : PCI Bus 0000:00
+000e4000-000e7fff : PCI Bus 0000:00
+000e8000-000ebfff : PCI Bus 0000:00
+000ec000-000effff : PCI Bus 0000:00
+000f0000-000fffff : PCI Bus 0000:00
+  000f0000-000fffff : System ROM
+00100000-a8f44017 : System RAM
+  01000000-01b9ef5a : Kernel code
+  01b9ef5b-0236eb3f : Kernel data
+  024ef000-02620fff : Kernel bss
+a8f44018-a8f53c57 : System RAM
+a8f53c58-a916dfff : System RAM
+a916e000-a9d76fff : ACPI Non-volatile Storage
+a9d77000-a9d99fff : System RAM
+a9d9a000-a9d9efff : ACPI Non-volatile Storage
+a9d9f000-aebbefff : System RAM
+aebbf000-af6befff : reserved
+af6bf000-af7befff : ACPI Non-volatile Storage
+af7bf000-af7fefff : ACPI Tables
+af7ff000-af7fffff : System RAM
+af800000-afffffff : reserved
+b0000000-feafffff : PCI Bus 0000:00
+  b0000000-bfffffff : PCI Bus 0000:01
+    b0000000-bfffffff : 0000:01:00.0
+  c0000000-c0ffffff : PCI Bus 0000:09
+    c0000000-c0003fff : 0000:09:00.0
+      c0000000-c0003fff : r8169
+    c0004000-c0004fff : 0000:09:00.0
+      c0004000-c0004fff : r8169
+  c1000000-c1ffffff : PCI Bus 0000:09
+  c2000000-c2ffffff : PCI Bus 0000:01
+    c2000000-c201ffff : 0000:01:00.0
+    c2020000-c2023fff : 0000:01:00.1
+      c2020000-c2023fff : ICH HD audio
+    c2040000-c205ffff : 0000:01:00.0
+  c3000000-c30fffff : PCI Bus 0000:08
+    c3000000-c307ffff : 0000:08:00.0
+      c3000000-c307ffff : ath9k
+    c3080000-c308ffff : 0000:08:00.0
+  c3100000-c3103fff : 0000:00:1b.0
+    c3100000-c3103fff : ICH HD audio
+  c3104000-c310400f : 0000:00:16.0
+    c3104000-c310400f : mei_me
+  c3105000-c31050ff : 0000:00:1f.3
+  c3107000-c31077ff : 0000:00:1f.2
+    c3107000-c31077ff : ahci
+  c3108000-c31083ff : 0000:00:1d.0
+    c3108000-c31083ff : ehci_hcd
+  c3109000-c31093ff : 0000:00:1a.0
+    c3109000-c31093ff : ehci_hcd
+  c3200000-c3200fff : pnp 00:05
+  c3300000-c34fffff : PCI Bus 0000:07
+  c3500000-c36fffff : PCI Bus 0000:07
+  c3700000-c38fffff : PCI Bus 0000:08
+  f0000000-f3ffffff : PCI MMCONFIG 0000 [bus 00-3f]
+    f0000000-f3ffffff : reserved
+      f0000000-f3ffffff : pnp 00:05
+feb00000-feb03fff : reserved
+fec00000-fec00fff : reserved
+  fec00000-fec003ff : IOAPIC 0
+fed00000-fed003ff : HPET 0
+  fed00000-fed003ff : PNP0103:00
+fed10000-fed19fff : reserved
+  fed10000-fed17fff : pnp 00:05
+  fed18000-fed18fff : pnp 00:05
+  fed19000-fed19fff : pnp 00:05
+fed1c000-fed1ffff : reserved
+  fed1c000-fed1ffff : pnp 00:05
+    fed1f410-fed1f414 : iTCO_wdt
+      fed1f410-fed1f414 : iTCO_wdt
+fed20000-fed3ffff : pnp 00:05
+fed90000-fed93fff : pnp 00:05
+fee00000-fee00fff : Local APIC
+  fee00000-fee00fff : reserved
+ff000000-ffffffff : INT0800:00
+  ffc00000-ffffffff : reserved
+100000000-24effffff : System RAM
+24f000000-24fffffff : RAM buffer
