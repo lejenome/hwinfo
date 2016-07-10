@@ -1,0 +1,57 @@
+SoC: rockchip RK2928
+HTC C037 V6
+
+ABI: armeabi-v7a (armeabi)
+RK SDK: RK292X_ANDROID4.1.1-SDK-v1.00.00
+
+tab: mobii p701 (others: Avoca 7″ Tablet STB7012)
+Android 4.1
+ROM: 4G
+CPU: Cortex A9, 1.2 GHz
+RAM: 0.5 G
+display: 7 inch, 800x480
+wifi: 802.11 b/g/n
+bluetooth: non
+3G: non
+gps: non
+sd reader: yes
+webcam: 0.3Mb
+demonsion: 191x116x10.9
+
+SoC details:
+CPU 			• Single-Core ARM Cortex-A9, up to 1.0GHz
+GPU		 	• ARM Mali-400 GPU, support OpenGL ES1.1/2.0
+Graphic Computing 	• High performance dedicated 2D processor
+			• 1080P multi format video decoding
+			• 1080P video encoding for H.264 
+Flash 	 		• Support MLC NAND, eMMC
+Memory 			• Support DDR3, DDR3L
+Package 		• RK2926:   LQFP176, 20X20mm
+			• RK2928-G:   BGA313,  0.8mm Pitch, 16X16mm
+
+
+Single core ARM Cortex A9 clocked up to 1.0 GHz
+128 KB L2 cache[22]
+55 nm low power process
+ARM Mali-400 GPU (single core, up to 330 MHz)
+1080P multi format video decoding
+1080P video encoding for H.264
+Embedded HDMI 1.4b transmitter, audio codec, GPS baseband
+Embedded LVDS transmitter
+
+
+FIRMWARE_VER:4.1.1
+MACHINE_MODEL:rk2928sdk
+MACHINE_ID:007
+MANUFACTURER:RK2928SDK
+MAGIC: 0x5041524B
+ATAG: 0x60000800
+MACHINE: 2928
+CHECK_MASK: 0x80
+KERNEL_IMG: 0x60408000
+CMDLINE:console=ttyFIQ0 androidboot.console=ttyFIQ0 init=/init initrd=0x62000000,0x00800000 mtdparts=rk29xxnand:0x00002000@0x00002000(misc),0x00004000@0x00004000(kernel),0x00008000@0x00008000(boot),0x00010000@0x00010000(recovery),0x00020000@0x00020000(backup),0x00040000@0x00040000(cache),0x00200000@0x00080000(userdata),0x00002000@0x00280000(kpanic),0x00145000@0x00282000(system),-@0x003C7000(user)
+
+## Vold 2.0 Generic fstab
+dev_mount flash /mnt/sdcard auto /dev/block/mtd/by-name/user
+dev_mount sdcard /mnt/external_sd auto /devices/platform/rk29_sdmmc.0/mmc_host/mmc0
+dev_mount udisk /mnt/usb_storage auto /devices/platform/usb20_host/usb /devices/platform/usb20_otg/usb

@@ -1,0 +1,35 @@
+AMD Radeon HD 7670M
+AMD Radeon 7670M
+chipset		Turks
+family		Northern Islans
+driver		radeon_r600
+DirectX		DirectX 11, Shader 5.0
+OpenGl		4.1
+DirectCompute	11
+OpenCL
+UVD3		MPEG-4 AVC/H.264, VC-1, MPEG-2, MVC, MPEG-4 part 2
+Codename	Thames XT
+Architecture	Terascale 2
+Pipelines	480 - unified
+Core Speed	600 MHz
+Memory Speed	1800 MHz
+Memory Bus Width	128 Bit
+Memory Type	DDR3, (GDDR5)
+Shared Memory	no
+Transistors	716 Million
+technology	40 nm
+
+G3DVL VDPAU Driver Shared Library version 1.0
+name                        level macbs width height
+----------------------------------------------------
+MPEG1                           0  9216  2048  1152
+MPEG2_SIMPLE                    3  9216  2048  1152
+MPEG2_MAIN                      3  9216  2048  1152
+H264_BASELINE                  41  9216  2048  1152
+H264_MAIN                      41  9216  2048  1152
+H264_HIGH                      41  9216  2048  1152
+VC1_SIMPLE                      1  9216  2048  1152
+VC1_MAIN                        2  9216  2048  1152
+VC1_ADVANCED                    4  9216  2048  1152
+MPEG4_PART2_SP                  3  9216  2048  1152
+MPEG4_PART2_ASP                 5  9216  2048  1152
