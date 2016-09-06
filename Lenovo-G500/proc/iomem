@@ -1,0 +1,91 @@
+00000000-00000fff : reserved
+00001000-00087fff : System RAM
+00088000-000bffff : reserved
+  000a0000-000bffff : PCI Bus 0000:00
+000c0000-000cefff : Video ROM
+000f0000-000fffff : System ROM
+00100000-1fffffff : System RAM
+  01000000-015e2619 : Kernel code
+  015e261a-018f443f : Kernel data
+  01a33000-01b55fff : Kernel bss
+20000000-201fffff : reserved
+  20000000-201fffff : pnp 00:06
+20200000-40003fff : System RAM
+40004000-40004fff : reserved
+  40004000-40004fff : pnp 00:06
+40005000-c5fecfff : System RAM
+c5fed000-c6d6dfff : reserved
+c6d6e000-c6daffff : System RAM
+c6db0000-c81affff : reserved
+c81b0000-cc7befff : System RAM
+cc7bf000-cc879fff : reserved
+cc87a000-cc87afff : reserved
+cc87b000-cc880fff : reserved
+cc881000-cc882fff : reserved
+cc883000-cc8a6fff : reserved
+cc8a7000-cc8a8fff : reserved
+cc8a9000-cc8bffff : reserved
+cc8c0000-cc8c0fff : reserved
+cc8c1000-cc8cafff : reserved
+cc8cb000-cc8cbfff : reserved
+cc8cc000-cc8d1fff : reserved
+cc8d2000-cc8d2fff : reserved
+cc8d3000-cc8e0fff : reserved
+cc8e1000-cc8e1fff : reserved
+cc8e2000-cc8f2fff : reserved
+cc8f3000-cc937fff : reserved
+cc938000-cc9befff : reserved
+cc9bf000-ccebefff : reserved
+ccebf000-ccfbefff : ACPI Non-volatile Storage
+ccfbf000-ccffefff : ACPI Tables
+ccfff000-ccffffff : System RAM
+cd000000-cf9fffff : reserved
+  cda00000-cf9fffff : Graphics Stolen Memory
+cfa00000-feafffff : PCI Bus 0000:00
+  cfa00000-cfa00fff : pnp 00:05
+  d0000000-dfffffff : 0000:00:02.0
+  e0000000-e03fffff : 0000:00:02.0
+  e0400000-e04fffff : PCI Bus 0000:02
+    e0400000-e0401fff : 0000:02:00.0
+      e0400000-e0401fff : iwlwifi
+  e0500000-e05fffff : PCI Bus 0000:01
+    e0500000-e053ffff : 0000:01:00.0
+      e0500000-e053ffff : alx
+  e0600000-e060ffff : 0000:00:14.0
+    e0600000-e060ffff : xhci-hcd
+  e0610000-e0613fff : 0000:00:1b.0
+    e0610000-e0613fff : ICH HD audio
+  e0614000-e061400f : 0000:00:16.0
+    e0614000-e061400f : mei_me
+  e0615000-e06150ff : 0000:00:1f.3
+  e0617000-e06177ff : 0000:00:1f.2
+    e0617000-e06177ff : ahci
+  e0618000-e06183ff : 0000:00:1d.0
+    e0618000-e06183ff : ehci_hcd
+  e0619000-e06193ff : 0000:00:1a.0
+    e0619000-e06193ff : ehci_hcd
+  f0000000-f3ffffff : PCI MMCONFIG 0000 [bus 00-3f]
+    f0000000-f3ffffff : reserved
+      f0000000-f3ffffff : pnp 00:05
+feb00000-feb03fff : reserved
+fec00000-fec00fff : reserved
+  fec00000-fec003ff : IOAPIC 0
+fed00000-fed003ff : HPET 0
+  fed00000-fed003ff : PNP0103:00
+fed10000-fed19fff : reserved
+  fed10000-fed17fff : pnp 00:05
+  fed18000-fed18fff : pnp 00:05
+  fed19000-fed19fff : pnp 00:05
+fed1c000-fed1ffff : reserved
+  fed1c000-fed1ffff : pnp 00:05
+    fed1f410-fed1f414 : iTCO_wdt.2.auto
+      fed1f410-fed1f414 : iTCO_wdt
+fed20000-fed3ffff : pnp 00:05
+fed90000-fed93fff : pnp 00:05
+fee00000-fee00fff : Local APIC
+  fee00000-fee00fff : reserved
+ff000000-ff000fff : pnp 00:05
+ff010000-ffffffff : INT0800:00
+  ffb80000-ffffffff : reserved
+100000000-12f5fffff : System RAM
+12f600000-12fffffff : RAM buffer

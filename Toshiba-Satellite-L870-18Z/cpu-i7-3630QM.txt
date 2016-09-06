@@ -1,0 +1,36 @@
+model		i7-3630QM (mobile quad-core)
+codename	Ivy Bridge
+generation	3rd
+cores		4
+threads		8
+L1 cache	64 KB per core
+L2 cache	256 KB per core
+L3 cache	6 MB
+clock: 2.4 GHz (45 W) / 3.4 GHz
+Model		Pentium G Series
+Created		29/04/2012
+manifactred	30/09/2012 $378
+Transistors	~1.008 billion, 22 nm (FinFET)
+Architecture	Sandy Bridge x86
+Instructions	MMX, AES-NI, CLMUL
+Extensions	x86-64, Intel 64
+		SSE, SSE2, SSE3, SSSE3, SSE4, SSE4.1, SSE4.2
+		AVX, TXT, VT-x, VT-d
+
+Predecessor	Sandy Bridge
+Successor	Haswell
+
+die code name	Ivy Bridge-HM-4	
+CPUID		0x000306A9
+stepping	N0
+die size	133 mm2
+die dimensions	7.656 x 17.349 mm
+
+GPU		HD 4000
+GPU		DirectX 11, OpenGl 4.0, OpenCl 1.1
+GPU clock	650 MHz / 1.15 GHz
+GPU Execution units	6
+
+RAM		 DDR3/L/-RS 1333/1600 up to 32GB
+
+Socket:		FCPGA988

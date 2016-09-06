@@ -1,0 +1,831 @@
+
+Computer
+********
+
+
+Summary
+-------
+
+-Computer-
+Processor		: 4x Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz
+Memory		: 3946MB (442MB used)
+Operating System		: Arch Linux
+User Name		: root (root)
+Date/Time		: Tue Sep  6 15:33:53 2016
+-Display-
+Resolution		: 0x0 pixels
+OpenGL Renderer		: Mesa DRI Intel(R) Ivybridge Mobile 
+X11 Vendor		: The X.Org Foundation
+-Multimedia-
+Audio Adapter		: HDA-Intel - HDA Intel PCH
+-Input Devices-
+ AT Translated Set 2 keyboard
+ Power Button
+ Lid Switch
+ Power Button
+ PC Speaker
+ Ideapad extra buttons
+ Video Bus
+ SynPS/2 Synaptics TouchPad
+ HDA Digital PCBeep
+ HDA Intel PCH Mic
+ HDA Intel PCH Headphone
+ HDA Intel PCH HDMI/DP,pcm		: 3=
+ Lenovo EasyCamera
+-Printers-
+No printers found
+-SCSI Disks-
+ATA TOSHIBA MQ01ABD0
+MATSHITA DVD-RAM UJ8E1
+
+Operating System
+----------------
+
+-Version-
+Kernel		: Linux 4.7.1-1-ARCH (x86_64)
+Compiled		: #1 SMP PREEMPT Wed Aug 17 08:13:35 CEST 2016
+C Library		: GNU C Library version 2.24 (stable)
+Default C Compiler		: GNU C Compiler version 6.1.1 20160802 (GCC) 
+Distribution		: Arch Linux
+-Current Session-
+Computer Name		: lejenome
+User Name		: root (root)
+Home Directory		: /home/lejenome/
+Desktop Environment		: Unknown
+-Misc-
+Uptime		: 7 minutes
+Load Average		: 0.30, 0.54, 0.35
+
+Kernel Modules
+--------------
+
+-Loaded Modules-
+sg		: SCSI generic (sg) driver
+st		: SCSI tape (st) driver
+lp
+parport_pc		: PC-style parallel port driver
+ppdev
+parport
+nls_iso8859_1
+nls_cp437
+vfat		: VFAT filesystem support
+fat
+uvcvideo		: USB Video Class driver
+videobuf2_vmalloc		: vmalloc memory handling routines for videobuf2
+videobuf2_memops		: common memory handling routines for videobuf2
+videobuf2_v4l2		: Driver helper framework for Video for Linux 2
+videobuf2_core		: Media buffer core framework
+videodev		: Device registrar for Video4Linux drivers v2
+media		: Device node registration for media drivers
+intel_rapl		: Driver for Intel RAPL (Running Average Power Limit)
+x86_pkg_temp_thermal		: X86 PKG TEMP Thermal Driver
+intel_powerclamp		: Package Level C-state Idle Injection for Intel CPUs
+coretemp		: Intel Core temperature monitor
+rtsx_usb_ms		: Realtek USB Memstick Card Host Driver
+memstick		: Sony MemoryStick core driver
+kvm_intel
+joydev		: Joystick device interfaces
+mousedev		: Mouse (ExplorerPS/2) device interfaces
+kvm
+snd_hda_codec_hdmi		: HDMI HD-audio codec
+snd_hda_codec_conexant		: Conexant HD-audio codec
+snd_hda_codec_generic		: Generic HD-audio codec parser
+irqbypass		: IRQ bypass manager utility module
+crct10dif_pclmul		: T10 DIF CRC calculation accelerated with PCLMULQDQ.
+crc32_pclmul
+arc4		: ARC4 Cipher Algorithm
+snd_hda_intel		: Intel HDA driver
+snd_hda_codec		: HDA codec core
+ghash_clmulni_intel		: GHASH Message Digest Algorithm, acclerated by PCLMULQDQ-NI
+cryptd		: Software async crypto daemon
+iwldvm		: Intel(R) Wireless WiFi Link AGN driver for Linux
+snd_hda_core		: HD-audio bus
+mac80211		: IEEE 802.11 subsystem
+snd_hwdep		: Hardware dependent layer
+iTCO_wdt		: Intel TCO WatchDog Timer Driver
+snd_pcm		: Midlevel PCM code for ALSA.
+intel_cstate
+iTCO_vendor_support		: Intel TCO Vendor Specific WatchDog Timer Driver Support
+intel_rapl_perf
+snd_timer		: ALSA timer interface
+psmouse		: PS/2 mouse driver
+evdev		: Input driver event char devices
+i915		: Intel Graphics
+snd		: Advanced Linux Sound Architecture driver for soundcards.
+iwlwifi		: Intel(R) Wireless WiFi driver for Linux
+ideapad_laptop		: IdeaPad ACPI Extras
+input_leds		: Input -&gt; LEDs Bridge
+intel_gtt
+i2c_i801		: I801 SMBus driver
+alx		: Qualcomm Atheros(R) AR816x/AR817x PCI-E Ethernet Network Driver
+pcspkr		: PC Speaker beeper driver
+cfg80211		: wireless configuration support
+sparse_keymap		: Generic support for sparse keymaps
+mac_hid
+wmi		: ACPI-WMI Mapping Driver
+rfkill		: RF switch support
+mdio		: Generic support for MDIO-compatible transceivers
+serio_raw		: Raw serio driver
+fjes		: FUJITSU Extended Socket Network Device Driver
+shpchp		: Standard Hot Plug PCI Controller Driver
+soundcore		: Core sound module
+mei_me		: Intel(R) Management Engine Interface
+mei		: Intel(R) Management Engine Interface
+lpc_ich		: LPC interface for Intel ICH
+ac		: ACPI AC Adapter Driver
+thermal		: ACPI Thermal Zone Driver
+battery		: ACPI Battery Driver
+video		: ACPI Video Driver
+button		: ACPI Button Driver
+tpm_tis		: TPM Driver
+tpm		: TPM Driver
+sch_fq_codel
+ip_tables		: IPv4 packet filter
+x_tables		: {ip,ip6,arp,eb}_tables backend module
+ext4		: Fourth Extended Filesystem
+crc16		: CRC16 calculations
+jbd2
+mbcache		: Meta block cache (for extended attributes)
+rtsx_usb_sdmmc		: Realtek USB SD/MMC Card Host Driver
+led_class		: LED Class Interface
+mmc_core
+rtsx_usb		: Realtek USB Card Reader Driver
+atkbd		: AT and PS/2 keyboard driver
+libps2		: PS/2 driver library
+ehci_pci		: EHCI PCI platform driver
+xhci_pci		: xHCI PCI Host Controller Driver
+ehci_hcd		: USB 2.0 &apos;Enhanced&apos; Host Controller (EHCI) Driver
+xhci_hcd		: &apos;eXtensible&apos; Host Controller (xHC) Driver
+usbcore
+usb_common
+i8042		: i8042 keyboard and mouse controller driver
+serio		: Serio abstraction core
+radeon		: ATI Radeon
+i2c_algo_bit		: I2C-Bus bit-banging algorithm
+drm_kms_helper		: DRM KMS helper
+syscopyarea		: Generic copyarea (sys-to-sys)
+sysfillrect		: Generic fill rectangle (sys-to-sys)
+sysimgblt		: 1-bit/8-bit to 1-32 bit color expansion (sys-to-sys)
+fb_sys_fops		: Generic file read (fb in system RAM)
+ttm		: TTM memory manager subsystem (for DRM device)
+drm		: DRM shared core routines
+crc32c_generic		: CRC32c (Castagnoli) calculations wrapper for lib/crc32c
+crc32c_intel		: CRC32c (Castagnoli) optimization using Intel Hardware.
+btrfs
+xor
+sr_mod		: SCSI cdrom (sr) driver
+cdrom
+raid6_pq		: RAID6 Q-syndrome calculations
+sd_mod		: SCSI disk (sd) driver
+ahci		: AHCI SATA low-level driver
+libahci		: Common AHCI SATA low-level routines
+libata		: Library module for ATA devices
+scsi_mod		: SCSI core
+
+Boots
+-----
+
+-Boots-
+Tue Sep 6 15:26		: 44..7.1-1-ARCH|stilll
+Tue Sep 6 13:48-		: 44..4.19-1-lts|15:255
+Tue Sep 6 09:27-		: 44..4.19-1-lts|15:255
+Mon Sep 5 17:51-		: 44..4.19-1-lts|18:044
+Mon Sep 5 17:25-		: 44..4.19-1-lts|18:044
+Mon Sep 5 14:24-		: 44..4.19-1-lts|18:044
+Mon Sep 5 14:19-		: 44..4.19-1-lts|14:244
+Mon Sep 5 14:10-		: 44..4.19-1-lts|14:244
+Mon Aug 22 21:37		: 44..7.1-1-ARCH|-
+Mon Aug 22 21:17		: 44..7.1-1-ARCH|-
+Mon Aug 22 21:04		: 44..7.1-1-ARCH|-
+Mon Aug 22 15:33		: 44..7.1-1-ARCH|-
+Mon Aug 22 01:32		: 44..7.1-1-ARCH|-
+Mon Aug 22 00:36		: 44..4.16-1-lts|-
+Sun Aug 21 23:45		: 44..4.16-1-lts|-
+Sun Aug 21 23:42		: 44..4.16-1-lts|-
+Sun Aug 21 23:38		: 44..4.16-1-lts|-
+Sun Aug 21 23:27		: 44..4.16-1-lts|-
+Sun Aug 21 23:24		: 44..7.1-1-ARCH|-
+Sun Aug 21 23:18		: 44..7.1-1-ARCH|-
+Sun Aug 21 23:10		: 44..7.1-1-ARCH|-
+Sun Aug 21 22:44		: 44..7.1-1-ARCH|-
+Sat Aug 20 12:51		: 44..7.1-1-ARCH|-
+Fri Aug 19 15:09		: 44..7.1-1-ARCH|-
+Fri Aug 19 14:29		: 44..7.1-1-ARCH|-
+Fri Aug 19 09:00		: 44..7.0-1-ARCH|-
+Thu Aug 18 16:35		: 44..7.0-1-ARCH|-
+Thu Aug 18 12:18		: 44..7.0-1-ARCH|-
+Wed Aug 17 08:07		: 44..7.0-1-ARCH|-
+Tue Aug 16 14:14		: 44..7.0-1-ARCH|-
+Tue Aug 16 11:21		: 44..7.0-1-ARCH|-
+Tue Aug 16 07:58		: 44..7.0-1-ARCH|-
+Mon Aug 15 19:01		: 44..7.0-1-ARCH|-
+Mon Aug 15 18:43		: 44..7.0-1-ARCH|-
+Sun Aug 14 14:41		: 44..7.0-1-ARCH|-
+Sun Aug 14 11:06		: 44..7.0-1-ARCH|-
+Sun Aug 14 10:41		: 44..7.0-1-ARCH|-
+Sun Aug 14 09:05		: 44..7.0-1-ARCH|-
+Sat Aug 13 13:00		: 44..7.0-1-ARCH|-
+Sat Aug 13 09:09		: 44..7.0-1-ARCH|-
+Fri Aug 12 19:23		: 44..7.0-1-ARCH|-
+Fri Aug 12 12:38		: 44..7.0-1-ARCH|-
+Fri Aug 12 08:51		: 44..6.4-1-ARCH|-
+Thu Aug 11 13:18		: 44..6.4-1-ARCH|-
+Thu Aug 11 08:35		: 44..6.4-1-ARCH|-
+Thu Aug 11 00:24		: 44..6.4-1-ARCH|-
+Wed Aug 10 15:40		: 44..6.4-1-ARCH|-
+Wed Aug 10 14:45		: 44..6.4-1-ARCH|-
+Tue Aug 9 09:10-		: 44..6.4-1-ARCH|13:488
+Mon Aug 8 23:24-		: 44..6.4-1-ARCH|13:488
+Mon Aug 8 22:57-		: 44..6.4-1-ARCH|23:244
+Mon Aug 8 21:39-		: 44..6.4-1-ARCH|22:577
+Mon Aug 8 15:58-		: 44..6.4-1-ARCH|22:577
+Sun Aug 7 11:21-		: 44..6.4-1-ARCH|15:522
+Sun Aug 7 10:35-		: 44..6.4-1-ARCH|11:022
+
+Languages
+---------
+
+-Available Languages-
+ar_TN.utf8		: Arabic language locale for Tunisia
+en_DK.utf8		: English locale for Denmark
+en_US.utf8		: English locale for the USA
+
+Filesystems
+-----------
+
+-Mounted File Systems-
+dev	/dev	0.00 % (1.9 GiB of 1.9 GiB)	
+run	/run	0.04 % (1.9 GiB of 1.9 GiB)	
+/dev/sda3	/	30.77 % (65.2 GiB of 94.2 GiB)	
+tmpfs	/dev/shm	0.10 % (1.9 GiB of 1.9 GiB)	
+tmpfs	/sys/fs/cgroup	0.00 % (1.9 GiB of 1.9 GiB)	
+tmpfs	/home/lejenome/.cache	0.01 % (1.9 GiB of 1.9 GiB)	
+tmpfs	/tmp	0.00 % (2.8 GiB of 2.8 GiB)	
+/dev/sda1	/boot/efi	10.97 % (648.7 MiB of 728.6 MiB)	
+/dev/sda8	/home/cache	56.31 % (16.4 GiB of 37.5 GiB)	
+/dev/sda5	/mnt/Others	64.27 % (152.0 GiB of 425.5 GiB)	
+tmpfs	/run/user/1000	0.00 % (385.4 MiB of 385.4 MiB)	
+
+Display
+-------
+
+-Display-
+Resolution		: 0x0 pixels
+Vendor		: The X.Org Foundation
+Version		: 1.18.4
+-Monitors-
+-Extensions-
+BIG-REQUESTS
+Composite
+DAMAGE
+DOUBLE-BUFFER
+DPMS
+DRI2
+DRI3
+GLX
+Generic Event Extension
+MIT-SCREEN-SAVER
+MIT-SHM
+Present
+RANDR
+RECORD
+RENDER
+SECURITY
+SGI-GLX
+SHAPE
+SYNC
+X-Resource
+XC-MISC
+XFIXES
+XFree86-DGA
+XFree86-VidModeExtension
+XINERAMA
+XInputExtension
+XKEYBOARD
+XTEST
+XVideo
+-OpenGL-
+Vendor		: Intel Open Source Technology Center
+Renderer		: Mesa DRI Intel(R) Ivybridge Mobile 
+Version		: 3.0 Mesa 12.0.1
+Direct Rendering		: Yes
+
+Environment Variables
+---------------------
+
+-Environment Variables-
+XDG_VTNR		: 1
+XDG_DOCUMENTS_DIR		: /home/lejenome//Documents
+XDG_SESSION_ID		: c1
+XDG_DOWNLOAD_DIR		: /home/lejenome//Downloads
+XDG_DATA_HOME		: /home/lejenome//.local/share
+SHELL		: /bin/zsh
+XDG_VIDEOS_DIR		: /home/lejenome//Videos
+TERM		: screen-256color
+XDG_PICTURES_DIR		: /home/lejenome//Pictures
+LC_NUMERIC		: C
+USER		: root
+LS_COLORS		: bd=38;5;68:ca=38;5;17:cd=38;5;113;1:di=38;5;30:do=38;5;127:ex=38;5;208;1:pi=38;5;126:fi=0:ln=target:mh=38;5;222;1:no=0:or=48;5;196;38;5;232;1:ow=38;5;220;1:sg=48;5;3;38;5;0:su=38;5;220;1;3;100;1:so=38;5;197:st=38;5;86;48;5;234:tw=48;5;235;38;5;139;3:*LS_COLORS=48;5;89;38;5;197;1;3;4;7:*README=38;5;220;1:*LICENSE=38;5;220;1:*COPYING=38;5;220;1:*INSTALL=38;5;220;1:*COPYRIGHT=38;5;220;1:*AUTHORS=38;5;220;1:*HISTORY=38;5;220;1:*CONTRIBUTORS=38;5;220;1:*PATENTS=38;5;220;1:*VERSION=38;5;220;1:*NOTICE=38;5;220;1:*CHANGES=38;5;220;1:*.log=38;5;190:*.txt=38;5;253:*.etx=38;5;184:*.info=38;5;184:*.markdown=38;5;184:*.md=38;5;184:*.mkd=38;5;184:*.nfo=38;5;184:*.pod=38;5;184:*.tex=38;5;184:*.textile=38;5;184:*.json=38;5;178:*.msg=38;5;178:*.pgn=38;5;178:*.rss=38;5;178:*.xml=38;5;178:*.yml=38;5;178:*.RData=38;5;178:*.rdata=38;5;178:*.cbr=38;5;141:*.cbz=38;5;141:*.chm=38;5;141:*.djvu=38;5;141:*.pdf=38;5;141:*.PDF=38;5;141:*.docm=38;5;111;4:*.doc=38;5;111:*.docx=38;5;111:*.eps=38;5;111:*.ps=38;5;111:*.odb=38;5;111:*.odt=38;5;111:*.rtf=38;5;111:*.odp=38;5;166:*.pps=38;5;166:*.ppt=38;5;166:*.pptx=38;5;166:*.ppts=38;5;166:*.pptxm=38;5;166;4:*.pptsm=38;5;166;4:*.csv=38;5;78:*.ods=38;5;112:*.xla=38;5;76:*.xls=38;5;112:*.xlsx=38;5;112:*.xlsxm=38;5;112;4:*.xltm=38;5;73;4:*.xltx=38;5;73:*cfg=1:*conf=1:*rc=1:*.ini=1:*.viminfo=1:*.pcf=1:*.psf=1:*.git=38;5;197:*.gitignore=38;5;240:*.gitattributes=38;5;240:*.gitmodules=38;5;240:*.awk=38;5;172:*.bash=38;5;172:*.bat=38;5;172:*.BAT=38;5;172:*.sed=38;5;172:*.sh=38;5;172:*.zsh=38;5;172:*.vim=38;5;172:*.ahk=38;5;41:*.py=38;5;41:*.pl=38;5;208:*.PL=38;5;160:*.t=38;5;114:*.msql=38;5;222:*.mysql=38;5;222:*.pgsql=38;5;222:*.sql=38;5;222:*.tcl=38;5;64;1:*.r=38;5;49:*.R=38;5;49:*.gs=38;5;81:*.asm=38;5;81:*.cl=38;5;81:*.lisp=38;5;81:*.lua=38;5;81:*.moon=38;5;81:*.c=38;5;81:*.C=38;5;81:*.h=38;5;110:*.H=38;5;110:*.tcc=38;5;110:*.c++=38;5;81:*.h++=38;5;110:*.hpp=38;5;110:*.hxx=38;5;110:*.ii=38;5;110:*.M=38;5;110:*.m=38;5;110:*.cc=38;5;81:*.cs=38;5;81:*.cp=38;5;81:*.cpp=38;5;81:*.cxx=38;5;81:*.cr=38;5;81:*.go=38;5;81:*.f=38;5;81:*.for=38;5;81:*.ftn=38;5;81:*.s=38;5;110:*.S=38;5;110:*.rs=38;5;81:*.sx=38;5;81:*.hi=38;5;110:*.hs=38;5;81:*.lhs=38;5;81:*.pyc=38;5;240:*.css=38;5;125;1:*.less=38;5;125;1:*.sass=38;5;125;1:*.scss=38;5;125;1:*.htm=38;5;125;1:*.html=38;5;125;1:*.jhtm=38;5;125;1:*.mht=38;5;125;1:*.eml=38;5;125;1:*.mustache=38;5;125;1:*.coffee=38;5;074;1:*.java=38;5;074;1:*.js=38;5;074;1:*.jsm=38;5;074;1:*.jsm=38;5;074;1:*.jsp=38;5;074;1:*.php=38;5;81:*.ctp=38;5;81:*.twig=38;5;81:*.vb=38;5;81:*.vba=38;5;81:*.vbs=38;5;81:*Makefile=38;5;155:*MANIFEST=38;5;243:*pm_to_blib=38;5;240:*.am=38;5;242:*.in=38;5;242:*.hin=38;5;242:*.scan=38;5;242:*.m4=38;5;242:*.old=38;5;242:*.out=38;5;242:*.SKIP=38;5;244:*.diff=48;5;197;38;5;232:*.patch=48;5;197;38;5;232;1:*.bmp=38;5;97:*.tiff=38;5;97:*.tif=38;5;97:*.TIFF=38;5;97:*.cdr=38;5;97:*.gif=38;5;97:*.ico=38;5;97:*.jpeg=38;5;97:*.JPG=38;5;97:*.jpg=38;5;97:*.nth=38;5;97:*.png=38;5;97:*.psd=38;5;97:*.xpm=38;5;97:*.ai=38;5;99:*.eps=38;5;99:*.epsf=38;5;99:*.drw=38;5;99:*.ps=38;5;99:*.svg=38;5;99:*.avi=38;5;114:*.divx=38;5;114:*.IFO=38;5;114:*.m2v=38;5;114:*.m4v=38;5;114:*.mkv=38;5;114:*.MOV=38;5;114:*.mov=38;5;114:*.mp4=38;5;114:*.mpeg=38;5;114:*.mpg=38;5;114:*.ogm=38;5;114:*.rmvb=38;5;114:*.sample=38;5;114:*.wmv=38;5;114:*.3g2=38;5;115:*.3gp=38;5;115:*.gp3=38;5;115:*.webm=38;5;115:*.gp4=38;5;115:*.asf=38;5;115:*.flv=38;5;115:*.ts=38;5;115:*.ogv=38;5;115:*.f4v=38;5;115:*.VOB=38;5;115;1:*.vob=38;5;115;1:*.3ga=38;5;137;1:*.S3M=38;5;137;1:*.aac=38;5;137;1:*.au=38;5;137;1:*.dat=38;5;137;1:*.dts=38;5;137;1:*.fcm=38;5;137;1:*.m4a=38;5;137;1:*.mid=38;5;137;1:*.midi=38;5;137;1:*.mod=38;5;137;1:*.mp3=38;5;137;1:*.mp4a=38;5;137;1:*.oga=38;5;137;1:*.ogg=38;5;137;1:*.opus=38;5;137;1:*.s3m=38;5;137;1:*.sid=38;5;137;1:*.wma=38;5;137;1:*.ape=38;5;136;1:*.aiff=38;5;136;1:*.cda=38;5;136;1:*.flac=38;5;136;1:*.alac=38;5;136;1:*.midi=38;5;136;1:*.pcm=38;5;136;1:*.wav=38;5;136;1:*.wv=38;5;136;1:*.wvc=38;5;136;1:*.afm=38;5;66:*.fon=38;5;66:*.fnt=38;5;66:*.pfb=38;5;66:*.pfm=38;5;66:*.ttf=38;5;66:*.otf=38;5;66:*.PFA=38;5;66:*.pfa=38;5;66:*.7z=38;5;40:*.a=38;5;40:*.arj=38;5;40:*.bz2=38;5;40:*.gz=38;5;40:*.rar=38;5;40:*.tar=38;5;40:*.tgz=38;5;40:*.xz=38;5;40:*.zip=38;5;40:*.zoo=38;5;40:*.apk=38;5;215:*.deb=38;5;215:*.jad=38;5;215:*.jar=38;5;215:*.cab=38;5;215:*.pak=38;5;215:*.pk3=38;5;215:*.vdf=38;5;215:*.vpk=38;5;215:*.bsp=38;5;215:*.dmg=38;5;215:*.r00=38;5;239:*.r01=38;5;239:*.r02=38;5;239:*.r03=38;5;239:*.r04=38;5;239:*.r05=38;5;239:*.r06=38;5;239:*.r07=38;5;239:*.r08=38;5;239:*.r09=38;5;239:*.r10=38;5;239:*.r100=38;5;239:*.r101=38;5;239:*.r102=38;5;239:*.r103=38;5;239:*.r104=38;5;239:*.r105=38;5;239:*.r106=38;5;239:*.r107=38;5;239:*.r108=38;5;239:*.r109=38;5;239:*.r11=38;5;239:*.r110=38;5;239:*.r111=38;5;239:*.r112=38;5;239:*.r113=38;5;239:*.r114=38;5;239:*.r115=38;5;239:*.r116=38;5;239:*.r12=38;5;239:*.r13=38;5;239:*.r14=38;5;239:*.r15=38;5;239:*.r16=38;5;239:*.r17=38;5;239:*.r18=38;5;239:*.r19=38;5;239:*.r20=38;5;239:*.r21=38;5;239:*.r22=38;5;239:*.r25=38;5;239:*.r26=38;5;239:*.r27=38;5;239:*.r28=38;5;239:*.r29=38;5;239:*.r30=38;5;239:*.r31=38;5;239:*.r32=38;5;239:*.r33=38;5;239:*.r34=38;5;239:*.r35=38;5;239:*.r36=38;5;239:*.r37=38;5;239:*.r38=38;5;239:*.r39=38;5;239:*.r40=38;5;239:*.r41=38;5;239:*.r42=38;5;239:*.r43=38;5;239:*.r44=38;5;239:*.r45=38;5;239:*.r46=38;5;239:*.r47=38;5;239:*.r48=38;5;239:*.r49=38;5;239:*.r50=38;5;239:*.r51=38;5;239:*.r52=38;5;239:*.r53=38;5;239:*.r54=38;5;239:*.r55=38;5;239:*.r56=38;5;239:*.r57=38;5;239:*.r58=38;5;239:*.r59=38;5;239:*.r60=38;5;239:*.r61=38;5;239:*.r62=38;5;239:*.r63=38;5;239:*.r64=38;5;239:*.r65=38;5;239:*.r66=38;5;239:*.r67=38;5;239:*.r68=38;5;239:*.r69=38;5;239:*.r69=38;5;239:*.r70=38;5;239:*.r71=38;5;239:*.r72=38;5;239:*.r73=38;5;239:*.r74=38;5;239:*.r75=38;5;239:*.r76=38;5;239:*.r77=38;5;239:*.r78=38;5;239:*.r79=38;5;239:*.r80=38;5;239:*.r81=38;5;239:*.r82=38;5;239:*.r83=38;5;239:*.r84=38;5;239:*.r85=38;5;239:*.r86=38;5;239:*.r87=38;5;239:*.r88=38;5;239:*.r89=38;5;239:*.r90=38;5;239:*.r91=38;5;239:*.r92=38;5;239:*.r93=38;5;239:*.r94=38;5;239:*.r95=38;5;239:*.r96=38;5;239:*.r97=38;5;239:*.r98=38;5;239:*.r99=38;5;239:*.zx00=38;5;239:*.zx01=38;5;239:*.zx02=38;5;239:*.zx03=38;5;239:*.zx04=38;5;239:*.zx05=38;5;239:*.zx06=38;5;239:*.zx07=38;5;239:*.zx08=38;5;239:*.zx09=38;5;239:*.zx10=38;5;239:*.zx11=38;5;239:*.zx12=38;5;239:*.zx13=38;5;239:*.zx14=38;5;239:*.zx15=38;5;239:*.zx16=38;5;239:*.zx17=38;5;239:*.zx18=38;5;239:*.zx19=38;5;239:*.zx20=38;5;239:*.zx21=38;5;239:*.zx22=38;5;239:*.zx25=38;5;239:*.zx26=38;5;239:*.zx27=38;5;239:*.zx28=38;5;239:*.zx29=38;5;239:*.zx30=38;5;239:*.zx31=38;5;239:*.zx32=38;5;239:*.zx33=38;5;239:*.zx34=38;5;239:*.zx35=38;5;239:*.zx36=38;5;239:*.zx37=38;5;239:*.zx38=38;5;239:*.zx39=38;5;239:*.zx40=38;5;239:*.zx41=38;5;239:*.zx42=38;5;239:*.zx43=38;5;239:*.zx44=38;5;239:*.zx45=38;5;239:*.zx46=38;5;239:*.zx47=38;5;239:*.zx48=38;5;239:*.zx49=38;5;239:*.zx50=38;5;239:*.zx51=38;5;239:*.zx52=38;5;239:*.zx53=38;5;239:*.zx54=38;5;239:*.zx55=38;5;239:*.zx56=38;5;239:*.zx57=38;5;239:*.zx58=38;5;239:*.zx59=38;5;239:*.zx60=38;5;239:*.zx61=38;5;239:*.zx62=38;5;239:*.zx63=38;5;239:*.zx64=38;5;239:*.zx65=38;5;239:*.zx66=38;5;239:*.zx67=38;5;239:*.zx68=38;5;239:*.zx69=38;5;239:*.zx69=38;5;239:*.zx70=38;5;239:*.zx71=38;5;239:*.zx72=38;5;239:*.zx73=38;5;239:*.zx74=38;5;239:*.zx75=38;5;239:*.zx76=38;5;239:*.zx77=38;5;239:*.zx78=38;5;239:*.zx79=38;5;239:*.zx80=38;5;239:*.zx81=38;5;239:*.zx82=38;5;239:*.zx83=38;5;239:*.zx84=38;5;239:*.zx85=38;5;239:*.zx86=38;5;239:*.zx87=38;5;239:*.zx88=38;5;239:*.zx89=38;5;239:*.zx90=38;5;239:*.zx91=38;5;239:*.zx92=38;5;239:*.zx93=38;5;239:*.zx94=38;5;239:*.zx95=38;5;239:*.zx96=38;5;239:*.zx97=38;5;239:*.zx98=38;5;239:*.zx99=38;5;239:*.zx100=38;5;239:*.zx101=38;5;239:*.zx102=38;5;239:*.zx103=38;5;239:*.zx104=38;5;239:*.zx105=38;5;239:*.zx106=38;5;239:*.zx107=38;5;239:*.zx108=38;5;239:*.zx109=38;5;239:*.zx110=38;5;239:*.zx111=38;5;239:*.zx112=38;5;239:*.zx113=38;5;239:*.zx114=38;5;239:*.zx115=38;5;239:*.zx116=38;5;239:*.z00=38;5;239:*.z01=38;5;239:*.z02=38;5;239:*.z03=38;5;239:*.z04=38;5;239:*.z05=38;5;239:*.z06=38;5;239:*.z07=38;5;239:*.z08=38;5;239:*.z09=38;5;239:*.z10=38;5;239:*.z11=38;5;239:*.z12=38;5;239:*.z13=38;5;239:*.z14=38;5;239:*.z15=38;5;239:*.z16=38;5;239:*.z17=38;5;239:*.z18=38;5;239:*.z19=38;5;239:*.z20=38;5;239:*.z21=38;5;239:*.z22=38;5;239:*.z25=38;5;239:*.z26=38;5;239:*.z27=38;5;239:*.z28=38;5;239:*.z29=38;5;239:*.z30=38;5;239:*.z31=38;5;239:*.z32=38;5;239:*.z33=38;5;239:*.z34=38;5;239:*.z35=38;5;239:*.z36=38;5;239:*.z37=38;5;239:*.z38=38;5;239:*.z39=38;5;239:*.z40=38;5;239:*.z41=38;5;239:*.z42=38;5;239:*.z43=38;5;239:*.z44=38;5;239:*.z45=38;5;239:*.z46=38;5;239:*.z47=38;5;239:*.z48=38;5;239:*.z49=38;5;239:*.z50=38;5;239:*.z51=38;5;239:*.z52=38;5;239:*.z53=38;5;239:*.z54=38;5;239:*.z55=38;5;239:*.z56=38;5;239:*.z57=38;5;239:*.z58=38;5;239:*.z59=38;5;239:*.z60=38;5;239:*.z61=38;5;239:*.z62=38;5;239:*.z63=38;5;239:*.z64=38;5;239:*.z65=38;5;239:*.z66=38;5;239:*.z67=38;5;239:*.z68=38;5;239:*.z69=38;5;239:*.z69=38;5;239:*.z70=38;5;239:*.z71=38;5;239:*.z72=38;5;239:*.z73=38;5;239:*.z74=38;5;239:*.z75=38;5;239:*.z76=38;5;239:*.z77=38;5;239:*.z78=38;5;239:*.z79=38;5;239:*.z80=38;5;239:*.z81=38;5;239:*.z82=38;5;239:*.z83=38;5;239:*.z84=38;5;239:*.z85=38;5;239:*.z86=38;5;239:*.z87=38;5;239:*.z88=38;5;239:*.z89=38;5;239:*.z90=38;5;239:*.z91=38;5;239:*.z92=38;5;239:*.z93=38;5;239:*.z94=38;5;239:*.z95=38;5;239:*.z96=38;5;239:*.z97=38;5;239:*.z98=38;5;239:*.z99=38;5;239:*.z100=38;5;239:*.z101=38;5;239:*.z102=38;5;239:*.z103=38;5;239:*.z104=38;5;239:*.z105=38;5;239:*.z106=38;5;239:*.z107=38;5;239:*.z108=38;5;239:*.z109=38;5;239:*.z110=38;5;239:*.z111=38;5;239:*.z112=38;5;239:*.z113=38;5;239:*.z114=38;5;239:*.z115=38;5;239:*.z116=38;5;239:*.part=38;5;239:*.dmg=38;5;124:*.iso=38;5;124:*.bin=38;5;124:*.nrg=38;5;124:*.qcow=38;5;124:*.sparseimage=38;5;124:*.toast=38;5;124:*.vcd=38;5;124:*.vmdk=38;5;124:*.accdb=38;5;60:*.accde=38;5;60:*.accdr=38;5;60:*.accdt=38;5;60:*.db=38;5;60:*.localstorage=38;5;60:*.mdb=38;5;60:*.mde=38;5;60:*.sqlite=38;5;60:*.typelib=38;5;60:*.nc=38;5;60:*.pacnew=38;5;33:*.un~=38;5;241:*.orig=38;5;241:*.BUP=38;5;241:*.bak=38;5;241:*.o=38;5;241:*.rlib=38;5;241:*.swp=38;5;244:*.swo=38;5;244:*.tmp=38;5;244:*.sassc=38;5;244:*.pid=38;5;248:*.state=38;5;248:*lockfile=38;5;248:*.err=38;5;160;1:*.error=38;5;160;1:*.stderr=38;5;160;1:*.dump=38;5;241:*.stackdump=38;5;241:*.zcompdump=38;5;241:*.zwc=38;5;241:*.pcap=38;5;29:*.cap=38;5;29:*.dmp=38;5;29:*.allow=38;5;112:*.deny=38;5;196:*.service=38;5;45:*@.service=38;5;45:*.socket=38;5;45:*.swap=38;5;45:*.device=38;5;45:*.mount=38;5;45:*.automount=38;5;45:*.target=38;5;45:*.path=38;5;45:*.timer=38;5;45:*.snapshot=38;5;45:*.application=38;5;116:*.cue=38;5;116:*.description=38;5;116:*.directory=38;5;116:*.m3u=38;5;116:*.m3u8=38;5;116:*.md5=38;5;116:*.properties=38;5;116:*.sfv=38;5;116:*.srt=38;5;116:*.theme=38;5;116:*.torrent=38;5;116:*.urlview=38;5;116:*.asc=38;5;192;3:*.bfe=38;5;192;3:*.enc=38;5;192;3:*.gpg=38;5;192;3:*.signature=38;5;192;3:*.sig=38;5;192;3:*.p12=38;5;192;3:*.pem=38;5;192;3:*.pgp=38;5;192;3:*.asc=38;5;192;3:*.enc=38;5;192;3:*.sig=38;5;192;3:*.32x=38;5;213:*.cdi=38;5;213:*.fm2=38;5;213:*.rom=38;5;213:*.sav=38;5;213:*.st=38;5;213:*.a00=38;5;213:*.a52=38;5;213:*.A64=38;5;213:*.a64=38;5;213:*.a78=38;5;213:*.adf=38;5;213:*.atr=38;5;213:*.gb=38;5;213:*.gba=38;5;213:*.gbc=38;5;213:*.gel=38;5;213:*.gg=38;5;213:*.ggl=38;5;213:*.ipk=38;5;213:*.j64=38;5;213:*.nds=38;5;213:*.nes=38;5;213:*.sms=38;5;213:*.pot=38;5;7:*.pcb=38;5;7:*.mm=38;5;7:*.pod=38;5;7:*.gbr=38;5;7:*.spl=38;5;7:*.scm=38;5;7:*.Rproj=38;5;11:*.sis=38;5;7:*.1p=38;5;7:*.3p=38;5;7:*.cnc=38;5;7:*.def=38;5;7:*.ex=38;5;7:*.example=38;5;7:*.feature=38;5;7:*.ger=38;5;7:*.map=38;5;7:*.mf=38;5;7:*.mfasl=38;5;7:*.mi=38;5;7:*.mtx=38;5;7:*.pc=38;5;7:*.pi=38;5;7:*.plt=38;5;7:*.pm=38;5;7:*.rb=38;5;7:*.rdf=38;5;7:*.rst=38;5;7:*.ru=38;5;7:*.sch=38;5;7:*.sty=38;5;7:*.sug=38;5;7:*.t=38;5;7:*.tdy=38;5;7:*.tfm=38;5;7:*.tfnt=38;5;7:*.tg=38;5;7:*.vcard=38;5;7:*.vcf=38;5;7:*.xln=38;5;7:
+SUDO_USER		: lejenome
+SUDO_UID		: 1000
+USERNAME		: root
+PAGER		: less
+XDG_MUSIC_DIR		: /home/lejenome//Music
+MAIL		: /var/mail/root
+PATH		: /home/lejenome//.local/lib/ruby/gems/ruby/2.3.0/bin:/home/lejenome//.local/lib/ruby/gems/ruby/2.2.0/bin:/home/lejenome//.local/lib/ruby/gems/ruby/2.1.0/bin:/home/lejenome//.local/bin:/usr/bin:/usr/local/bin:/usr/local/sbin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/share/perl6/vendor/bin
+LC_COLLATE		: C
+PWD		: /mnt/Others/git/hwinfo/Lenovo-G500
+XDG_PUBLICSHARE_DIR		: /home/lejenome//Public
+XDG_DESKTOP_DIR		: /home/lejenome//Desktop
+EDITOR		: /usr/bin/vim
+LANG		: en_US.UTF-8
+TZ		: Africa/Tunis
+SHLVL		: 1
+SUDO_COMMAND		: /usr/bin/bash ../README
+MANPAGER		: less
+XDG_SEAT		: seat0
+HOME		: /home/lejenome/
+XDG_CONFIG_HOME		: /home/lejenome//.config
+XDG_CACHE_HOME		: /home/lejenome//.cache
+LOGNAME		: root
+LC_CTYPE		: en_US.UTF-8
+BROWSER		: /usr/bin/qutebrowser
+SUDO_GID		: 1000
+XDG_RUNTIME_DIR		: /run/user/1000
+DISPLAY		: :0
+LC_TIME		: en_DK.UTF-8
+XAUTHORITY		: /run/user/1000/Xauthority
+COLORTERM		: rxvt
+_		: /usr/bin/hardinfo
+
+Users
+-----
+
+-Users-
+root		: root
+bin		: bin
+daemon		: daemon
+mail		: mail
+ftp		: ftp
+http		: http
+uuidd		: uuidd
+dbus		: dbus
+nobody		: nobody
+systemd-journal-gateway		: systemd-journal-gateway
+systemd-timesync		: systemd-timesync
+systemd-network		: systemd-network
+systemd-bus-proxy		: systemd-bus-proxy
+systemd-resolve		: systemd-resolve
+systemd-journal-remote		: systemd Journal Remote
+systemd-journal-upload		: systemd Journal Upload
+lejenome		: lejenome
+avahi		: avahi
+git		: git daemon user
+polkitd		: Policy Kit Daemon
+colord
+dnsmasq
+proxy
+mailman		: GNU Mailing List Manager
+ntp		: Network Time Protocol
+puppet		: Puppet
+rpc		: Rpcbind Daemon
+rtkit		: RealtimeKit
+mpd
+mysql
+bitlbee		: bitlbee
+tss
+systemd-coredump		: systemd Core Dumper
+postgres		: PostgreSQL user
+netdata		: netdata
+transmission		: Transmission BitTorrent Client
+
+Devices
+*******
+
+
+Processor
+---------
+
+-Processors-
+Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz		: 2399.85MHz
+Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz		: 2399.85MHz
+Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz		: 2400.00MHz
+Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz		: 2400.00MHz
+
+Memory
+------
+
+-Memory-
+Total Memory		: 3946540 kB
+Free Memory		: 2968012 kB
+MemAvailable		: 3416660 kB
+Buffers		: 121348 kB
+Cached		: 536508 kB
+Cached Swap		: 0 kB
+Active		: 455400 kB
+Inactive		: 373728 kB
+Active(anon)		: 172080 kB
+Inactive(anon)		: 35412 kB
+Active(file)		: 283320 kB
+Inactive(file)		: 338316 kB
+Unevictable		: 0 kB
+Mlocked		: 0 kB
+Virtual Memory		: 8191996 kB
+Free Virtual Memory		: 8191996 kB
+Dirty		: 152 kB
+Writeback		: 0 kB
+AnonPages		: 171276 kB
+Mapped		: 91284 kB
+Shmem		: 36232 kB
+Slab		: 82784 kB
+SReclaimable		: 61800 kB
+SUnreclaim		: 20984 kB
+KernelStack		: 2880 kB
+PageTables		: 7624 kB
+NFS_Unstable		: 0 kB
+Bounce		: 0 kB
+WritebackTmp		: 0 kB
+CommitLimit		: 10165264 kB
+Committed_AS		: 455956 kB
+VmallocTotal		: 34359738367 kB
+VmallocUsed		: 0 kB
+VmallocChunk		: 0 kB
+HardwareCorrupted		: 0 kB
+AnonHugePages		: 69632 kB
+HugePages_Total		: 0
+HugePages_Free		: 0
+HugePages_Rsvd		: 0
+HugePages_Surp		: 0
+Hugepagesize		: 2048 kB
+DirectMap4k		: 88312 kB
+DirectMap2M		: 4001792 kB
+
+PCI Devices
+-----------
+
+-PCI Devices-
+Host bridge		: Intel Corporation 3rd Gen Core processor DRAM Controller 
+VGA compatible controller		: Intel Corporation 3rd Gen Core processor Graphics Controller 
+USB controller		: Intel Corporation 7 Series/C210 Series Chipset Family USB xHCI Host Controller 
+Communication controller		: Intel Corporation 7 Series/C210 Series Chipset Family MEI Controller #1 
+USB controller		: Intel Corporation 7 Series/C210 Series Chipset Family USB Enhanced Host Controller #2 
+Audio device		: Intel Corporation 7 Series/C210 Series Chipset Family High Definition Audio Controller 
+PCI bridge		: Intel Corporation 7 Series/C210 Series Chipset Family PCI Express Root Port 1 
+PCI bridge		: Intel Corporation 7 Series/C210 Series Chipset Family PCI Express Root Port 2 
+USB controller		: Intel Corporation 7 Series/C210 Series Chipset Family USB Enhanced Host Controller #1 
+ISA bridge		: Intel Corporation HM76 Express Chipset LPC Controller 
+SATA controller		: Intel Corporation 7 Series Chipset Family 6-port SATA Controller [AHCI mode] 
+SMBus		: Intel Corporation 7 Series/C210 Series Chipset Family SMBus Controller 
+Ethernet controller		: Qualcomm Atheros QCA8172 Fast Ethernet 
+Network controller		: Intel Corporation Centrino Wireless-N 135 
+
+USB Devices
+-----------
+
+
+Printers
+--------
+
+-Printers-
+No printers found
+
+Battery
+-------
+
+-No batteries-
+No batteries found on this system
+
+Sensors
+-------
+
+
+Input Devices
+-------------
+
+-Input Devices-
+ AT Translated Set 2 keyboard
+ Power Button
+ Lid Switch
+ Power Button
+ PC Speaker
+ Ideapad extra buttons
+ Video Bus
+ SynPS/2 Synaptics TouchPad
+ HDA Digital PCBeep
+ HDA Intel PCH Mic
+ HDA Intel PCH Headphone
+ HDA Intel PCH HDMI/DP,pcm		: 3=
+ Lenovo EasyCamera
+
+Storage
+-------
+
+-SCSI Disks-
+ATA TOSHIBA MQ01ABD0
+MATSHITA DVD-RAM UJ8E1
+
+DMI
+---
+
+-BIOS-
+Date		: 11/19/2013
+Vendor		: LENOVO
+Version		: 78CN25WW(V2.03)
+-Board-
+Name		: INVALID
+Vendor		: LENOVO
+
+Resources
+---------
+
+-I/O Ports-
+<tt>0000-0cf7 </tt>		: PCI Bus 0000:00
+<tt>  0000-001f </tt>		: dma1
+<tt>  0020-0021 </tt>		: pic1
+<tt>  0040-0043 </tt>		: timer0
+<tt>  0050-0053 </tt>		: timer1
+<tt>  0060-0060 </tt>		: keyboard
+<tt>  0062-0062 </tt>		: PNP0C09:00
+<tt>    0062-0062 </tt>		: EC data
+<tt>  0064-0064 </tt>		: keyboard
+<tt>  0066-0066 </tt>		: PNP0C09:00
+<tt>    0066-0066 </tt>		: EC cmd
+<tt>  0070-0077 </tt>		: rtc0
+<tt>  0080-008f </tt>		: dma page reg
+<tt>  00a0-00a1 </tt>		: pic2
+<tt>  00c0-00df </tt>		: dma2
+<tt>  00f0-00ff </tt>		: fpu
+<tt>    00f0-00f0 </tt>		: PNP0C04:00
+<tt>  0400-0453 </tt>		: pnp 00:00
+<tt>    0400-0403 </tt>		: ACPI PM1a_EVT_BLK
+<tt>    0404-0405 </tt>		: ACPI PM1a_CNT_BLK
+<tt>    0408-040b </tt>		: ACPI PM_TMR
+<tt>    0410-0415 </tt>		: ACPI CPU throttle
+<tt>    0420-042f </tt>		: ACPI GPE0_BLK
+<tt>    0430-0433 </tt>		: iTCO_wdt.2.auto
+<tt>      0430-0433 </tt>		: Intel TCO WatchDog Timer Driver
+<tt>    0450-0450 </tt>		: ACPI PM2_CNT_BLK
+<tt>  0454-0457 </tt>		: pnp 00:02
+<tt>  0458-047f </tt>		: pnp 00:00
+<tt>    0460-047f </tt>		: iTCO_wdt.2.auto
+<tt>      0460-047f </tt>		: Intel TCO WatchDog Timer Driver
+<tt>  0500-057f </tt>		: pnp 00:00
+<tt>  0680-069f </tt>		: pnp 00:00
+<tt>0cf8-0cff </tt>		: PCI conf1
+<tt>0d00-ffff </tt>		: PCI Bus 0000:00
+<tt>  1000-100f </tt>		: pnp 00:00
+<tt>  164e-164f </tt>		: pnp 00:00
+<tt>  2000-2fff </tt>		: PCI Bus 0000:01
+<tt>    2000-207f </tt>		: Qualcomm Atheros QCA8172 Fast Ethernet 
+<tt>  3000-303f </tt>		: Intel Corporation 3rd Gen Core processor Graphics Controller 
+<tt>  3040-305f </tt>		: Intel Corporation 7 Series/C210 Series Chipset Family SMBus Controller 
+<tt>    3040-305f </tt>		: i801_smbus
+<tt>  3060-307f </tt>		: Intel Corporation 7 Series Chipset Family 6-port SATA Controller [AHCI mode] 
+<tt>    3060-307f </tt>		: AHCI SATA low-level driver
+<tt>  3080-3087 </tt>		: Intel Corporation 7 Series Chipset Family 6-port SATA Controller [AHCI mode] 
+<tt>    3080-3087 </tt>		: AHCI SATA low-level driver
+<tt>  3088-308f </tt>		: Intel Corporation 7 Series Chipset Family 6-port SATA Controller [AHCI mode] 
+<tt>    3088-308f </tt>		: AHCI SATA low-level driver
+<tt>  3090-3093 </tt>		: Intel Corporation 7 Series Chipset Family 6-port SATA Controller [AHCI mode] 
+<tt>    3090-3093 </tt>		: AHCI SATA low-level driver
+<tt>  3094-3097 </tt>		: Intel Corporation 7 Series Chipset Family 6-port SATA Controller [AHCI mode] 
+<tt>    3094-3097 </tt>		: AHCI SATA low-level driver
+<tt>  fd60-fd63 </tt>		: pnp 00:00
+<tt>  ffff-ffff </tt>		: pnp 00:00
+<tt>    ffff-ffff </tt>		: pnp 00:00
+-Memory-
+<tt>00000000-00000fff </tt>		: reserved
+<tt>00001000-00087fff </tt>		: System RAM
+<tt>00088000-000bffff </tt>		: reserved
+<tt>  000a0000-000bffff </tt>		: PCI Bus 0000:00
+<tt>000c0000-000cefff </tt>		: Video ROM
+<tt>000f0000-000fffff </tt>		: System ROM
+<tt>00100000-1fffffff </tt>		: System RAM
+<tt>  01000000-015e2619 </tt>		: Kernel code
+<tt>  015e261a-018f443f </tt>		: Kernel data
+<tt>  01a33000-01b55fff </tt>		: Kernel bss
+<tt>20000000-201fffff </tt>		: reserved
+<tt>  20000000-201fffff </tt>		: pnp 00:06
+<tt>20200000-40003fff </tt>		: System RAM
+<tt>40004000-40004fff </tt>		: reserved
+<tt>  40004000-40004fff </tt>		: pnp 00:06
+<tt>40005000-c5fecfff </tt>		: System RAM
+<tt>c5fed000-c6d6dfff </tt>		: reserved
+<tt>c6d6e000-c6daffff </tt>		: System RAM
+<tt>c6db0000-c81affff </tt>		: reserved
+<tt>c81b0000-cc7befff </tt>		: System RAM
+<tt>cc7bf000-cc879fff </tt>		: reserved
+<tt>cc87a000-cc87afff </tt>		: reserved
+<tt>cc87b000-cc880fff </tt>		: reserved
+<tt>cc881000-cc882fff </tt>		: reserved
+<tt>cc883000-cc8a6fff </tt>		: reserved
+<tt>cc8a7000-cc8a8fff </tt>		: reserved
+<tt>cc8a9000-cc8bffff </tt>		: reserved
+<tt>cc8c0000-cc8c0fff </tt>		: reserved
+<tt>cc8c1000-cc8cafff </tt>		: reserved
+<tt>cc8cb000-cc8cbfff </tt>		: reserved
+<tt>cc8cc000-cc8d1fff </tt>		: reserved
+<tt>cc8d2000-cc8d2fff </tt>		: reserved
+<tt>cc8d3000-cc8e0fff </tt>		: reserved
+<tt>cc8e1000-cc8e1fff </tt>		: reserved
+<tt>cc8e2000-cc8f2fff </tt>		: reserved
+<tt>cc8f3000-cc937fff </tt>		: reserved
+<tt>cc938000-cc9befff </tt>		: reserved
+<tt>cc9bf000-ccebefff </tt>		: reserved
+<tt>ccebf000-ccfbefff </tt>		: ACPI Non-volatile Storage
+<tt>ccfbf000-ccffefff </tt>		: ACPI Tables
+<tt>ccfff000-ccffffff </tt>		: System RAM
+<tt>cd000000-cf9fffff </tt>		: reserved
+<tt>  cda00000-cf9fffff </tt>		: Graphics Stolen Memory
+<tt>cfa00000-feafffff </tt>		: PCI Bus 0000:00
+<tt>  cfa00000-cfa00fff </tt>		: pnp 00:05
+<tt>  d0000000-dfffffff </tt>		: Intel Corporation 3rd Gen Core processor Graphics Controller 
+<tt>  e0000000-e03fffff </tt>		: Intel Corporation 3rd Gen Core processor Graphics Controller 
+<tt>  e0400000-e04fffff </tt>		: PCI Bus 0000:02
+<tt>    e0400000-e0401fff </tt>		: Intel Corporation Centrino Wireless-N 135 
+<tt>      e0400000-e0401fff </tt>		: Intel(R) Wireless WiFi driver for Linux
+<tt>  e0500000-e05fffff </tt>		: PCI Bus 0000:01
+<tt>    e0500000-e053ffff </tt>		: Qualcomm Atheros QCA8172 Fast Ethernet 
+<tt>      e0500000-e053ffff </tt>		: Qualcomm Atheros(R) AR816x/AR817x PCI-E Ethernet Network Driver
+<tt>  e0600000-e060ffff </tt>		: Intel Corporation 7 Series/C210 Series Chipset Family USB xHCI Host Controller 
+<tt>    e0600000-e060ffff </tt>		: xhci-hcd
+<tt>  e0610000-e0613fff </tt>		: Intel Corporation 7 Series/C210 Series Chipset Family High Definition Audio Controller 
+<tt>    e0610000-e0613fff </tt>		: ICH HD audio
+<tt>  e0614000-e061400f </tt>		: Intel Corporation 7 Series/C210 Series Chipset Family MEI Controller #1 
+<tt>    e0614000-e061400f </tt>		: Intel(R) Management Engine Interface
+<tt>  e0615000-e06150ff </tt>		: Intel Corporation 7 Series/C210 Series Chipset Family SMBus Controller 
+<tt>  e0617000-e06177ff </tt>		: Intel Corporation 7 Series Chipset Family 6-port SATA Controller [AHCI mode] 
+<tt>    e0617000-e06177ff </tt>		: AHCI SATA low-level driver
+<tt>  e0618000-e06183ff </tt>		: Intel Corporation 7 Series/C210 Series Chipset Family USB Enhanced Host Controller #1 
+<tt>    e0618000-e06183ff </tt>		: USB 2.0 &apos;Enhanced&apos; Host Controller (EHCI) Driver
+<tt>  e0619000-e06193ff </tt>		: Intel Corporation 7 Series/C210 Series Chipset Family USB Enhanced Host Controller #2 
+<tt>    e0619000-e06193ff </tt>		: USB 2.0 &apos;Enhanced&apos; Host Controller (EHCI) Driver
+<tt>  f0000000-f3ffffff </tt>		: PCI MMCONFIG 0000 [bus 00-3f]
+<tt>    f0000000-f3ffffff </tt>		: reserved
+<tt>      f0000000-f3ffffff </tt>		: pnp 00:05
+<tt>feb00000-feb03fff </tt>		: reserved
+<tt>fec00000-fec00fff </tt>		: reserved
+<tt>  fec00000-fec003ff </tt>		: IOAPIC 0
+<tt>fed00000-fed003ff </tt>		: HPET 0
+<tt>  fed00000-fed003ff </tt>		: PNP0103:00
+<tt>fed10000-fed19fff </tt>		: reserved
+<tt>  fed10000-fed17fff </tt>		: pnp 00:05
+<tt>  fed18000-fed18fff </tt>		: pnp 00:05
+<tt>  fed19000-fed19fff </tt>		: pnp 00:05
+<tt>fed1c000-fed1ffff </tt>		: reserved
+<tt>  fed1c000-fed1ffff </tt>		: pnp 00:05
+<tt>    fed1f410-fed1f414 </tt>		: iTCO_wdt.2.auto
+<tt>      fed1f410-fed1f414 </tt>		: Intel TCO WatchDog Timer Driver
+<tt>fed20000-fed3ffff </tt>		: pnp 00:05
+<tt>fed90000-fed93fff </tt>		: pnp 00:05
+<tt>fee00000-fee00fff </tt>		: Local APIC
+<tt>  fee00000-fee00fff </tt>		: reserved
+<tt>ff000000-ff000fff </tt>		: pnp 00:05
+<tt>ff010000-ffffffff </tt>		: INT0800:00
+<tt>  ffb80000-ffffffff </tt>		: reserved
+<tt>100000000-12f5fffff </tt>		: System RAM
+<tt>12f600000-12fffffff </tt>		: RAM buffer
+-DMA-
+<tt> 4</tt>		: cascade
+
+Network
+*******
+
+
+Interfaces
+----------
+
+-Network Interfaces-
+enp1s0	0.00MiB	0.00MiB		
+wlp2s0	0.00MiB	0.00MiB		
+lo	0.40MiB	0.40MiB	127.0.0.1	
+
+IP Connections
+--------------
+
+-Connections-
+127.0.0.1:53		0.0.0.0:*	udp	
+127.0.0.1:56912	ESTABLISHED	127.0.0.1:6600	tcp	
+:::6600	LISTEN	:::*	tcp6	
+:::3128	LISTEN	:::*	tcp6	
+:::3129	LISTEN	:::*	tcp6	
+:::3130	LISTEN	:::*	tcp6	
+127.0.0.1:6600	ESTABLISHED	127.0.0.1:56912	tcp6	
+::1:35770	ESTABLISHED	::1:6600	tcp6	
+::1:6600	ESTABLISHED	::1:35770	tcp6	
+0.0.0.0:35712		0.0.0.0:*	udp	
+127.0.0.1:53		0.0.0.0:*	udp	
+:::36515		:::*	udp6	
+
+Routing Table
+-------------
+
+-IP routing table-
+
+ARP Table
+---------
+
+-ARP Table-
+
+DNS Servers
+-----------
+
+-Name servers-
+192.168.1.1  
+127.0.0.1    
+8.8.8.8      
+
+Statistics
+----------
+
+-IP-
+3533		: Requests sent out
+0		: Incoming packets discarded
+0		: Incoming packets discarded
+3533		: Requests sent out
+3533		: Requests sent out
+1185		: Dropped because of missing route
+-ICMP-
+0		: ICMP messages failed
+0		: ICMP messages failed
+0		: ICMP messages failed
+0		: ICMP messages failed
+-TCP-
+49		: Active connection openings
+4		: Connections established
+45		: Failed connection attempts
+1		: Connection resets received
+4		: Connections established
+2674		: Segments sent out
+2674		: Segments sent out
+0		: Bad segments received
+0		: Bad segments received
+46		: Resets sent
+-UDP-
+900		: Packets sent
+0		: Send buffer errors
+0		: Send buffer errors
+900		: Packets sent
+0		: Send buffer errors
+0		: Send buffer errors
+-UDPLITE-
+-TCPEXT-
+1		: Connections reset due to unexpected data
+424		: Delayed acks sent
+436		: Packet headers predicted
+333		: Acknowledgments not containing data payload received
+533		: Predicted acknowledgments
+1		: Connections reset due to unexpected data
+-IPEXT-
+
+Shared Directories
+------------------
+
+-SAMBA-
+-NFS-
+
+Benchmarks
+**********
+
+
+CPU Blowfish
+------------
+
+-CPU Blowfish-
+<big><b>This Machine</b></big>	2400 MHz	4.651	
+Intel(R) Celeron(R) M processor         1.50GHz	(null)	26.1876862	
+PowerPC 740/750 (280.00MHz)	(null)	172.816713	
+
+CPU CryptoHash
+--------------
+
+-CPU CryptoHash-
+<big><b>This Machine</b></big>	2400 MHz	322.059	
+
+CPU Fibonacci
+-------------
+
+-CPU Fibonacci-
+<big><b>This Machine</b></big>	2400 MHz	2.143	
+Intel(R) Celeron(R) M processor         1.50GHz	(null)	8.1375674	
+PowerPC 740/750 (280.00MHz)	(null)	58.07682	
+
+CPU N-Queens
+------------
+
+-CPU N-Queens-
+<big><b>This Machine</b></big>	2400 MHz	6.117	
+
+FPU FFT
+-------
+
+-FPU FFT-
+<big><b>This Machine</b></big>	2400 MHz	1.222	
+
+FPU Raytracing
+--------------
+
+-FPU Raytracing-
+<big><b>This Machine</b></big>	2400 MHz	5.774	
+Intel(R) Celeron(R) M processor         1.50GHz	(null)	40.8816714	
+PowerPC 740/750 (280.00MHz)	(null)	161.312647	

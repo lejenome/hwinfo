@@ -1,19 +1,19 @@
-Used commands:
+# Used commands:
 
-# acpidump > acpidump.txt
-# dmidecode --dump > dmidecode-dump.txt
-# dmidecode > dmidecode.txt
-# ectool -i ectool.txt
-# hardinfo -ra --report-format=text > hardinfo.txt
-# hwinfo > hwinfo.txt
-# inteltool -a > inteltool.txt
-# lspcu > lspcu.txt
-# lshw > lshw.txt
-# lspci -vvvxxx > lspci.txt
-# lspci -tvnn > lspci-tvnn.txt
-# msrtool -v > msrtool.txt
-# superiotool -de > superiotool.txt
+acpidump > acpidump.txt
+dmidecode --dump > dmidecode-dump.txt
+dmidecode > dmidecode.txt
+ectool -i ectool.txt
+hardinfo -ra --report-format=text > hardinfo.txt
+hwinfo > hwinfo.txt
+inteltool -a > inteltool.txt
+lscpu > lscpu.txt
+lshw > lshw.txt
+lspci -vvvxxx > lspci.txt
+lspci -tvnn > lspci-tvnn.txt
+msrtool -v > msrtool.txt
+superiotool -de > superiotool.txt
 
-# mkdir proc/ && for i in cpuinfo interrupts iomem ioports; do cat /proc/$i > proc/$i; done
-# acpidump-all && mv out acpidump-all
-# mkdir efi && cd $_ && acpixtract -a ../acpidump.txt --parse
+mkdir proc/ && for i in cpuinfo interrupts iomem ioports; do cat /proc/$i > proc/$i; done
+acpidump-all && mv out acpidump-all
+mkdir efi && cd $_ && acpixtract -a ../acpidump.txt --parse
